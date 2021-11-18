@@ -1,0 +1,5 @@
+certifi==2021.10.8
+numpy==1.21.4
+Pillow==8.4.0
+typing_extensions==4.0.0
+wincertstore==0.2
